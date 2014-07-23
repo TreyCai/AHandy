@@ -6,7 +6,7 @@
               short="北京"
               type="Municipality">
         <city name="Beijing"
-              areacode="010"
+              areaCode="010"
               cn="北京市"
               short="北京"
               zipcode="100000">
@@ -36,7 +36,7 @@
               short="天津"
               type="Municipality">
         <city name="Tianjin"
-              areacode="022"
+              areaCode="022"
               cn="天津市"
               short="天津"
               zipcode="100000">
@@ -66,7 +66,7 @@
               short="河北"
               type="Province">
         <city name="Shijiazhuang"
-              areacode="0311"
+              areaCode="0311"
               cn="石家庄市"
               short="石家庄"
               zipcode="050000">
@@ -95,7 +95,7 @@
             <district name="鹿泉市" />
         </city>
         <city name="Tangshan"
-              areacode="0315"
+              areaCode="0315"
               cn="唐山市"
               short="唐山"
               zipcode="063000">
@@ -115,7 +115,7 @@
             <district name="迁安市" />
         </city>
         <city name="Qinhuangdao"
-              areacode="0335"
+              areaCode="0335"
               cn="秦皇岛市"
               short="秦皇岛"
               zipcode="066000">
@@ -128,7 +128,7 @@
             <district name="卢龙县" />
         </city>
         <city name="Handan"
-              areacode="0310"
+              areaCode="0310"
               cn="邯郸市"
               short="邯郸"
               zipcode="056000">
@@ -153,7 +153,7 @@
             <district name="武安市" />
         </city>
         <city name="Xingtai"
-              areacode="0319"
+              areaCode="0319"
               cn="邢台市"
               short="邢台"
               zipcode="054000">
@@ -178,7 +178,7 @@
             <district name="沙河市" />
         </city>
         <city name="Baoding"
-              areacode="0312"
+              areaCode="0312"
               cn="保定市"
               short="保定"
               zipcode="071000">
@@ -209,7 +209,7 @@
             <district name="高碑店市" />
         </city>
         <city name="Zhangjiakou"
-              areacode="0313"
+              areaCode="0313"
               cn="张家口市"
               short="张家口"
               zipcode="075000">
@@ -232,7 +232,7 @@
             <district name="崇礼县" />
         </city>
         <city name="Chengde"
-              areacode="0314"
+              areaCode="0314"
               cn="承德市"
               short="承德"
               zipcode="067000">
@@ -249,7 +249,7 @@
             <district name="围场满族蒙古族自治县" />
         </city>
         <city name="Cangzhou"
-              areacode="0317"
+              areaCode="0317"
               cn="沧州市"
               short="沧州"
               zipcode="061000">
@@ -271,7 +271,7 @@
             <district name="河间市" />
         </city>
         <city name="Langfang"
-              areacode="0316"
+              areaCode="0316"
               cn="廊坊市"
               short="廊坊"
               zipcode="065000">
@@ -287,7 +287,7 @@
             <district name="三河市" />
         </city>
         <city name="Hengshui"
-              areacode="0318"
+              areaCode="0318"
               cn="衡水市"
               short="衡水"
               zipcode="053000">
@@ -310,7 +310,7 @@
               short="山西"
               type="Province">
         <city name="Taiyuan"
-              areacode="0351"
+              areaCode="0351"
               cn="太原市"
               short="太原"
               zipcode="030000">
@@ -326,7 +326,7 @@
             <district name="古交市" />
         </city>
         <city name="Datong"
-              areacode="0352"
+              areaCode="0352"
               cn="大同市"
               short="大同"
               zipcode="037000">
@@ -343,7 +343,7 @@
             <district name="大同县" />
         </city>
         <city name="Yangquan"
-              areacode="0353"
+              areaCode="0353"
               cn="阳泉市"
               short="阳泉"
               zipcode="045000">
@@ -354,7 +354,7 @@
             <district name="盂县" />
         </city>
         <city name="Changzhi"
-              areacode="0355"
+              areaCode="0355"
               cn="长治市"
               short="长治"
               zipcode="046000">
@@ -373,7 +373,7 @@
             <district name="潞城市" />
         </city>
         <city name="Jincheng"
-              areacode="0356"
+              areaCode="0356"
               cn="晋城市"
               short="晋城"
               zipcode="048000">
@@ -385,7 +385,7 @@
             <district name="高平市" />
         </city>
         <city name="Shuozhou"
-              areacode="0349"
+              areaCode="0349"
               cn="朔州市"
               short="朔州"
               zipcode="036000">
@@ -397,7 +397,7 @@
             <district name="怀仁县" />
         </city>
         <city name="Jinzhong"
-              areacode="0354"
+              areaCode="0354"
               cn="晋中市"
               short="晋中"
               zipcode="030600">
@@ -414,7 +414,7 @@
             <district name="介休市" />
         </city>
         <city name="Yuncheng"
-              areacode="0359"
+              areaCode="0359"
               cn="运城市"
               short="运城"
               zipcode="044000">
@@ -433,7 +433,7 @@
             <district name="河津市" />
         </city>
         <city name="Xinzhou"
-              areacode="0350"
+              areaCode="0350"
               cn="忻州市"
               short="忻州"
               zipcode="034000">
@@ -453,7 +453,7 @@
             <district name="原平市" />
         </city>
         <city name="Linfen"
-              areacode="0357"
+              areaCode="0357"
               cn="临汾市"
               short="临汾"
               zipcode="041000">
@@ -476,7 +476,7 @@
             <district name="霍州市" />
         </city>
         <city name="Lvliang"
-              areacode="0358"
+              areaCode="0358"
               cn="吕梁市"
               short="吕梁"
               zipcode="030500">
@@ -501,7 +501,7 @@
               short="内蒙古"
               type="Autonomous region">
         <city name="Huhehaote"
-              areacode="0471"
+              areaCode="0471"
               cn="呼和浩特市"
               short="呼和浩特"
               zipcode="010000">
@@ -516,7 +516,7 @@
             <district name="武川县" />
         </city>
         <city name="Baotou"
-              areacode="0472"
+              areaCode="0472"
               cn="包头市"
               short="包头"
               zipcode="014000">
@@ -531,7 +531,7 @@
             <district name="达尔罕茂明安联合旗" />
         </city>
         <city name="Wuhai"
-              areacode="0473"
+              areaCode="0473"
               cn="乌海市"
               short="乌海"
               zipcode="016000">
@@ -540,7 +540,7 @@
             <district name="乌达区" />
         </city>
         <city name="Chifeng"
-              areacode="0476"
+              areaCode="0476"
               cn="赤峰市"
               short="赤峰"
               zipcode="024000">
@@ -558,7 +558,7 @@
             <district name="敖汉旗" />
         </city>
         <city name="Tongliao"
-              areacode="0475"
+              areaCode="0475"
               cn="通辽市"
               short="通辽"
               zipcode="028000">
@@ -572,7 +572,7 @@
             <district name="霍林郭勒市" />
         </city>
         <city name="Eerduosi"
-              areacode="0477"
+              areaCode="0477"
               cn="鄂尔多斯市"
               short="鄂尔多斯"
               zipcode="010300">
@@ -586,7 +586,7 @@
             <district name="伊金霍洛旗" />
         </city>
         <city name="Hulunbeier"
-              areacode="0470"
+              areaCode="0470"
               cn="呼伦贝尔市"
               short="呼伦贝尔"
               zipcode="021000">
@@ -605,7 +605,7 @@
             <district name="根河市" />
         </city>
         <city name="Bayannaoer"
-              areacode="0478"
+              areaCode="0478"
               cn="巴彦淖尔市"
               short="巴彦淖尔"
               zipcode="014400">
@@ -618,7 +618,7 @@
             <district name="杭锦后旗" />
         </city>
         <city name="Wulanchabu"
-              areacode="0474"
+              areaCode="0474"
               cn="乌兰察布市"
               short="乌兰察布"
               zipcode="011800">
@@ -635,7 +635,7 @@
             <district name="丰镇市" />
         </city>
         <city name="Xingan"
-              areacode="0482"
+              areaCode="0482"
               cn="兴安盟"
               short="兴安"
               zipcode="137500">
@@ -647,7 +647,7 @@
             <district name="突泉县" />
         </city>
         <city name="Xilinguole"
-              areacode="0479"
+              areaCode="0479"
               cn="锡林郭勒盟"
               short="锡林郭勒"
               zipcode="011100">
@@ -665,7 +665,7 @@
             <district name="多伦县" />
         </city>
         <city name="Alashan"
-              areacode="0483"
+              areaCode="0483"
               cn="阿拉善盟"
               short="阿拉善"
               zipcode="016000">
@@ -680,7 +680,7 @@
               short="辽宁"
               type="Province">
         <city name="Shenyang"
-              areacode="024"
+              areaCode="024"
               cn="沈阳市"
               short="沈阳"
               zipcode="110000">
@@ -699,7 +699,7 @@
             <district name="新民市" />
         </city>
         <city name="Dalian"
-              areacode="0411"
+              areaCode="0411"
               cn="大连市"
               short="大连"
               zipcode="116000">
@@ -715,7 +715,7 @@
             <district name="庄河市" />
         </city>
         <city name="Anshan"
-              areacode="0412"
+              areaCode="0412"
               cn="鞍山市"
               short="鞍山"
               zipcode="114000">
@@ -728,7 +728,7 @@
             <district name="海城市" />
         </city>
         <city name="Fushun"
-              areacode="024"
+              areaCode="024"
               cn="抚顺市"
               short="抚顺"
               zipcode="113000">
@@ -741,7 +741,7 @@
             <district name="清原满族自治县" />
         </city>
         <city name="Benxi"
-              areacode="024"
+              areaCode="024"
               cn="本溪市"
               short="本溪"
               zipcode="117000">
@@ -753,7 +753,7 @@
             <district name="桓仁满族自治县" />
         </city>
         <city name="Dandong"
-              areacode="0415"
+              areaCode="0415"
               cn="丹东市"
               short="丹东"
               zipcode="118000">
@@ -765,7 +765,7 @@
             <district name="凤城市" />
         </city>
         <city name="Jinzhou"
-              areacode="0416"
+              areaCode="0416"
               cn="锦州市"
               short="锦州"
               zipcode="121000">
@@ -778,7 +778,7 @@
             <district name="北宁市" />
         </city>
         <city name="Yingkou"
-              areacode="0417"
+              areaCode="0417"
               cn="营口市"
               short="营口"
               zipcode="115000">
@@ -790,7 +790,7 @@
             <district name="大石桥市" />
         </city>
         <city name="Fuxin"
-              areacode="0418"
+              areaCode="0418"
               cn="阜新市"
               short="阜新"
               zipcode="123000">
@@ -803,7 +803,7 @@
             <district name="彰武县" />
         </city>
         <city name="Liaoyang"
-              areacode="0419"
+              areaCode="0419"
               cn="辽阳市"
               short="辽阳"
               zipcode="111000">
@@ -816,7 +816,7 @@
             <district name="灯塔市" />
         </city>
         <city name="Panjin"
-              areacode="0427"
+              areaCode="0427"
               cn="盘锦市"
               short="盘锦"
               zipcode="124000">
@@ -826,7 +826,7 @@
             <district name="盘山县" />
         </city>
         <city name="Tieling"
-              areacode="024"
+              areaCode="024"
               cn="铁岭市"
               short="铁岭"
               zipcode="112000">
@@ -839,7 +839,7 @@
             <district name="开原市" />
         </city>
         <city name="Chaoyang"
-              areacode="0421"
+              areaCode="0421"
               cn="朝阳市"
               short="朝阳"
               zipcode="122000">
@@ -852,7 +852,7 @@
             <district name="凌源市" />
         </city>
         <city name="Huludao"
-              areacode="0429"
+              areaCode="0429"
               cn="葫芦岛市"
               short="葫芦岛"
               zipcode="125000">
@@ -870,7 +870,7 @@
               short="吉林"
               type="Province">
         <city name="Changchun"
-              areacode="0431"
+              areaCode="0431"
               cn="长春市"
               short="长春"
               zipcode="130000">
@@ -886,7 +886,7 @@
             <district name="德惠市" />
         </city>
         <city name="Jilin"
-              areacode="0432"
+              areaCode="0432"
               cn="吉林市"
               short="吉林"
               zipcode="132000">
@@ -901,7 +901,7 @@
             <district name="磐石市" />
         </city>
         <city name="Siping"
-              areacode="0434"
+              areaCode="0434"
               cn="四平市"
               short="四平"
               zipcode="136000">
@@ -913,7 +913,7 @@
             <district name="双辽市" />
         </city>
         <city name="Liaoyuan"
-              areacode="0437"
+              areaCode="0437"
               cn="辽源市"
               short="辽源"
               zipcode="136200">
@@ -923,7 +923,7 @@
             <district name="东辽县" />
         </city>
         <city name="Tonghua"
-              areacode="0435"
+              areaCode="0435"
               cn="通化市"
               short="通化"
               zipcode="134000">
@@ -936,7 +936,7 @@
             <district name="集安市" />
         </city>
         <city name="Baishan"
-              areacode="0439"
+              areaCode="0439"
               cn="白山市"
               short="白山"
               zipcode="134300">
@@ -948,7 +948,7 @@
             <district name="临江市" />
         </city>
         <city name="Songyuan"
-              areacode="0438"
+              areaCode="0438"
               cn="松原市"
               short="松原"
               zipcode="131100">
@@ -959,7 +959,7 @@
             <district name="扶余县" />
         </city>
         <city name="Baicheng"
-              areacode="0436"
+              areaCode="0436"
               cn="白城市"
               short="白城"
               zipcode="137000">
@@ -970,7 +970,7 @@
             <district name="大安市" />
         </city>
         <city name="Yanbian"
-              areacode="0433"
+              areaCode="0433"
               cn="延边朝鲜族自治州"
               short="延边"
               zipcode="133000">
@@ -990,7 +990,7 @@
               short="黑龙江"
               type="Province">
         <city name="Haerbin"
-              areacode="0451"
+              areaCode="0451"
               cn="哈尔滨市"
               short="哈尔滨"
               zipcode="150000">
@@ -1015,7 +1015,7 @@
             <district name="五常市" />
         </city>
         <city name="Qiqihaer"
-              areacode="0452"
+              areaCode="0452"
               cn="齐齐哈尔市"
               short="齐齐哈尔"
               zipcode="161000">
@@ -1037,7 +1037,7 @@
             <district name="讷河市" />
         </city>
         <city name="Jixi"
-              areacode="0467"
+              areaCode="0467"
               cn="鸡西市"
               short="鸡西"
               zipcode="158100">
@@ -1052,7 +1052,7 @@
             <district name="密山市" />
         </city>
         <city name="Hegang"
-              areacode="0468"
+              areaCode="0468"
               cn="鹤岗市"
               short="鹤岗"
               zipcode="154100">
@@ -1066,7 +1066,7 @@
             <district name="绥滨县" />
         </city>
         <city name="Shuangyashan"
-              areacode="0469"
+              areaCode="0469"
               cn="双鸭山市"
               short="双鸭山"
               zipcode="155100">
@@ -1080,7 +1080,7 @@
             <district name="饶河县" />
         </city>
         <city name="Daqing"
-              areacode="0459"
+              areaCode="0459"
               cn="大庆市"
               short="大庆"
               zipcode="163000">
@@ -1095,7 +1095,7 @@
             <district name="杜尔伯特蒙古族自治县" />
         </city>
         <city name="Yichun"
-              areacode="0458"
+              areaCode="0458"
               cn="伊春市"
               short="伊春"
               zipcode="152300">
@@ -1118,7 +1118,7 @@
             <district name="铁力市" />
         </city>
         <city name="Jiamusi"
-              areacode="0454"
+              areaCode="0454"
               cn="佳木斯市"
               short="佳木斯"
               zipcode="154000">
@@ -1135,7 +1135,7 @@
             <district name="富锦市" />
         </city>
         <city name="Qitaihe"
-              areacode="0464"
+              areaCode="0464"
               cn="七台河市"
               short="七台河"
               zipcode="154600">
@@ -1145,7 +1145,7 @@
             <district name="勃利县" />
         </city>
         <city name="Mudanjiang"
-              areacode="0453"
+              areaCode="0453"
               cn="牡丹江市"
               short="牡丹江"
               zipcode="157000">
@@ -1161,7 +1161,7 @@
             <district name="穆棱市" />
         </city>
         <city name="Heihe"
-              areacode="0456"
+              areaCode="0456"
               cn="黑河市"
               short="黑河"
               zipcode="164300">
@@ -1173,7 +1173,7 @@
             <district name="五大连池市" />
         </city>
         <city name="Suihua"
-              areacode="0455"
+              areaCode="0455"
               cn="绥化市"
               short="绥化"
               zipcode="152000">
@@ -1189,7 +1189,7 @@
             <district name="海伦市" />
         </city>
         <city name="Daxinganling"
-              areacode="0457"
+              areaCode="0457"
               cn="大兴安岭地区"
               short="大兴安岭"
               zipcode="165000">
@@ -1204,7 +1204,7 @@
               short="上海"
               type="Municipality">
         <city name="Shanghai"
-              areacode="021"
+              areaCode="021"
               cn="上海市"
               short="上海"
               zipcode="200000">
@@ -1235,7 +1235,7 @@
               short="江苏"
               type="Province">
         <city name="Nanjing"
-              areacode="025"
+              areaCode="025"
               cn="南京市"
               short="南京"
               zipcode="210000">
@@ -1254,7 +1254,7 @@
             <district name="高淳县" />
         </city>
         <city name="Wuxi"
-              areacode="0510"
+              areaCode="0510"
               cn="无锡市"
               short="无锡"
               zipcode="214000">
@@ -1268,7 +1268,7 @@
             <district name="宜兴市" />
         </city>
         <city name="Xuzhou"
-              areacode="0516"
+              areaCode="0516"
               cn="徐州市"
               short="徐州"
               zipcode="221000">
@@ -1285,7 +1285,7 @@
             <district name="邳州市" />
         </city>
         <city name="Changzhou"
-              areacode="0519"
+              areaCode="0519"
               cn="常州市"
               short="常州"
               zipcode="213000">
@@ -1298,7 +1298,7 @@
             <district name="金坛市" />
         </city>
         <city name="Suzhou"
-              areacode="0512"
+              areaCode="0512"
               cn="苏州市"
               short="苏州"
               zipcode="215000">
@@ -1315,7 +1315,7 @@
             <district name="太仓市" />
         </city>
         <city name="Nantong"
-              areacode="0513"
+              areaCode="0513"
               cn="南通市"
               short="南通"
               zipcode="226000">
@@ -1329,7 +1329,7 @@
             <district name="海门市" />
         </city>
         <city name="Lianyungang"
-              areacode="0518"
+              areaCode="0518"
               cn="连云港市"
               short="连云港"
               zipcode="222000">
@@ -1342,7 +1342,7 @@
             <district name="灌南县" />
         </city>
         <city name="Huaian"
-              areacode="0517"
+              areaCode="0517"
               cn="淮安市"
               short="淮安"
               zipcode="223200">
@@ -1356,7 +1356,7 @@
             <district name="金湖县" />
         </city>
         <city name="Yancheng"
-              areacode="0515"
+              areaCode="0515"
               cn="盐城市"
               short="盐城"
               zipcode="224000">
@@ -1371,7 +1371,7 @@
             <district name="大丰市" />
         </city>
         <city name="Yangzhou"
-              areacode="0514"
+              areaCode="0514"
               cn="扬州市"
               short="扬州"
               zipcode="225000">
@@ -1384,7 +1384,7 @@
             <district name="江都市" />
         </city>
         <city name="Zhenjiang"
-              areacode="0511"
+              areaCode="0511"
               cn="镇江市"
               short="镇江"
               zipcode="212000">
@@ -1396,7 +1396,7 @@
             <district name="句容市" />
         </city>
         <city name="Taizhou"
-              areacode="0523"
+              areaCode="0523"
               cn="泰州市"
               short="泰州"
               zipcode="225300">
@@ -1408,7 +1408,7 @@
             <district name="姜堰市" />
         </city>
         <city name="Suqian"
-              areacode="0527"
+              areaCode="0527"
               cn="宿迁市"
               short="宿迁"
               zipcode="223800">
@@ -1425,7 +1425,7 @@
               short="浙江"
               type="Province">
         <city name="Hangzhou"
-              areacode="0571"
+              areaCode="0571"
               cn="杭州市"
               short="杭州"
               zipcode="310000">
@@ -1444,7 +1444,7 @@
             <district name="临安市" />
         </city>
         <city name="Ningbo"
-              areacode="0574"
+              areaCode="0574"
               cn="宁波市"
               short="宁波"
               zipcode="315000">
@@ -1461,7 +1461,7 @@
             <district name="奉化市" />
         </city>
         <city name="Wenzhou"
-              areacode="0577"
+              areaCode="0577"
               cn="温州市"
               short="温州"
               zipcode="325000">
@@ -1478,7 +1478,7 @@
             <district name="乐清市" />
         </city>
         <city name="Jiaxing"
-              areacode="0573"
+              areaCode="0573"
               cn="嘉兴市"
               short="嘉兴"
               zipcode="314000">
@@ -1491,7 +1491,7 @@
             <district name="桐乡市" />
         </city>
         <city name="Huzhou"
-              areacode="0572"
+              areaCode="0572"
               cn="湖州市"
               short="湖州"
               zipcode="313000">
@@ -1502,7 +1502,7 @@
             <district name="安吉县" />
         </city>
         <city name="Shaoxing"
-              areacode="0575"
+              areaCode="0575"
               cn="绍兴市"
               short="绍兴"
               zipcode="312000">
@@ -1514,7 +1514,7 @@
             <district name="嵊州市" />
         </city>
         <city name="Jinhua"
-              areacode="0579"
+              areaCode="0579"
               cn="金华市"
               short="金华"
               zipcode="321000">
@@ -1529,7 +1529,7 @@
             <district name="永康市" />
         </city>
         <city name="Quzhou"
-              areacode="0570"
+              areaCode="0570"
               cn="衢州市"
               short="衢州"
               zipcode="324000">
@@ -1541,7 +1541,7 @@
             <district name="江山市" />
         </city>
         <city name="Zhoushan"
-              areacode="0580"
+              areaCode="0580"
               cn="舟山市"
               short="舟山"
               zipcode="316000">
@@ -1551,7 +1551,7 @@
             <district name="嵊泗县" />
         </city>
         <city name="Taizhou"
-              areacode="0576"
+              areaCode="0576"
               cn="台州市"
               short="台州"
               zipcode="318000">
@@ -1566,7 +1566,7 @@
             <district name="临海市" />
         </city>
         <city name="Lishui"
-              areacode="0578"
+              areaCode="0578"
               cn="丽水市"
               short="丽水"
               zipcode="323000">
@@ -1587,7 +1587,7 @@
               short="安徽"
               type="Province">
         <city name="Hefei"
-              areacode="0551"
+              areaCode="0551"
               cn="合肥市"
               short="合肥"
               zipcode="230000">
@@ -1601,7 +1601,7 @@
             <district name="巢湖市" />
         </city>
         <city name="Wuhu"
-              areacode="0553"
+              areaCode="0553"
               cn="芜湖市"
               short="芜湖"
               zipcode="241000">
@@ -1614,7 +1614,7 @@
             <district name="南陵县" />
         </city>
         <city name="Bengbu"
-              areacode="0552"
+              areaCode="0552"
               cn="蚌埠市"
               short="蚌埠"
               zipcode="233000">
@@ -1627,7 +1627,7 @@
             <district name="固镇县" />
         </city>
         <city name="Huainan"
-              areacode="0554"
+              areaCode="0554"
               cn="淮南市"
               short="淮南"
               zipcode="232000">
@@ -1639,7 +1639,7 @@
             <district name="凤台县" />
         </city>
         <city name="Maanshan"
-              areacode="0555"
+              areaCode="0555"
               cn="马鞍山市"
               short="马鞍山"
               zipcode="243000">
@@ -1649,7 +1649,7 @@
             <district name="当涂县" />
         </city>
         <city name="Huaibei"
-              areacode="0561"
+              areaCode="0561"
               cn="淮北市"
               short="淮北"
               zipcode="235000">
@@ -1659,7 +1659,7 @@
             <district name="濉溪县" />
         </city>
         <city name="Tongling"
-              areacode="0562"
+              areaCode="0562"
               cn="铜陵市"
               short="铜陵"
               zipcode="244000">
@@ -1669,7 +1669,7 @@
             <district name="铜陵县" />
         </city>
         <city name="Anqing"
-              areacode="0556"
+              areaCode="0556"
               cn="安庆市"
               short="安庆"
               zipcode="246000">
@@ -1686,7 +1686,7 @@
             <district name="桐城市" />
         </city>
         <city name="Huangshan"
-              areacode="0559"
+              areaCode="0559"
               cn="黄山市"
               short="黄山"
               zipcode="242700">
@@ -1699,7 +1699,7 @@
             <district name="祁门县" />
         </city>
         <city name="Chuzhou"
-              areacode="0550"
+              areaCode="0550"
               cn="滁州市"
               short="滁州"
               zipcode="239000">
@@ -1713,7 +1713,7 @@
             <district name="明光市" />
         </city>
         <city name="Fuyang"
-              areacode="0558"
+              areaCode="0558"
               cn="阜阳市"
               short="阜阳"
               zipcode="236100">
@@ -1727,7 +1727,7 @@
             <district name="界首市" />
         </city>
         <city name="Suzhou"
-              areacode="0557"
+              areaCode="0557"
               cn="宿州市"
               short="宿州"
               zipcode="234100">
@@ -1738,7 +1738,7 @@
             <district name="泗县" />
         </city>
         <city name="Liuan"
-              areacode="0564"
+              areaCode="0564"
               cn="六安市"
               short="六安"
               zipcode="237000">
@@ -1751,7 +1751,7 @@
             <district name="霍山县" />
         </city>
         <city name="Bozhou"
-              areacode="0558"
+              areaCode="0558"
               cn="亳州市"
               short="亳州"
               zipcode="236800">
@@ -1761,7 +1761,7 @@
             <district name="利辛县" />
         </city>
         <city name="Chizhou"
-              areacode="0566"
+              areaCode="0566"
               cn="池州市"
               short="池州"
               zipcode="247100">
@@ -1771,7 +1771,7 @@
             <district name="青阳县" />
         </city>
         <city name="Xuancheng"
-              areacode="0563"
+              areaCode="0563"
               cn="宣城市"
               short="宣城"
               zipcode="366000">
@@ -1790,7 +1790,7 @@
               short="福建"
               type="Province">
         <city name="Fuzhou"
-              areacode="0591"
+              areaCode="0591"
               cn="福州市"
               short="福州"
               zipcode="350000">
@@ -1809,7 +1809,7 @@
             <district name="长乐市" />
         </city>
         <city name="Xiamen"
-              areacode="0592"
+              areaCode="0592"
               cn="厦门市"
               short="厦门"
               zipcode="361000">
@@ -1821,7 +1821,7 @@
             <district name="翔安区" />
         </city>
         <city name="Putian"
-              areacode="0594"
+              areaCode="0594"
               cn="莆田市"
               short="莆田"
               zipcode="351100">
@@ -1832,7 +1832,7 @@
             <district name="仙游县" />
         </city>
         <city name="Sanming"
-              areacode="0598"
+              areaCode="0598"
               cn="三明市"
               short="三明"
               zipcode="365000">
@@ -1850,7 +1850,7 @@
             <district name="永安市" />
         </city>
         <city name="Quanzhou"
-              areacode="0595"
+              areaCode="0595"
               cn="泉州市"
               short="泉州"
               zipcode="362000">
@@ -1868,7 +1868,7 @@
             <district name="南安市" />
         </city>
         <city name="Zhangzhou"
-              areacode="0596"
+              areaCode="0596"
               cn="漳州市"
               short="漳州"
               zipcode="363000">
@@ -1885,7 +1885,7 @@
             <district name="龙海市" />
         </city>
         <city name="Nanping"
-              areacode="0599"
+              areaCode="0599"
               cn="南平市"
               short="南平"
               zipcode="353000">
@@ -1901,7 +1901,7 @@
             <district name="建阳市" />
         </city>
         <city name="Longyan"
-              areacode="0597"
+              areaCode="0597"
               cn="龙岩市"
               short="龙岩"
               zipcode="364000">
@@ -1914,7 +1914,7 @@
             <district name="漳平市" />
         </city>
         <city name="Ningde"
-              areacode="0593"
+              areaCode="0593"
               cn="宁德市"
               short="宁德"
               zipcode="352100">
@@ -1935,7 +1935,7 @@
               short="江西"
               type="Province">
         <city name="Nanchang"
-              areacode="0791"
+              areaCode="0791"
               cn="南昌市"
               short="南昌"
               zipcode="330000">
@@ -1950,7 +1950,7 @@
             <district name="进贤县" />
         </city>
         <city name="Jingdezhen"
-              areacode="0798"
+              areaCode="0798"
               cn="景德镇市"
               short="景德镇"
               zipcode="333000">
@@ -1960,7 +1960,7 @@
             <district name="乐平市" />
         </city>
         <city name="Pingxiang"
-              areacode="0799"
+              areaCode="0799"
               cn="萍乡市"
               short="萍乡"
               zipcode="337000">
@@ -1971,7 +1971,7 @@
             <district name="芦溪县" />
         </city>
         <city name="Jiujiang"
-              areacode="0792"
+              areaCode="0792"
               cn="九江市"
               short="九江"
               zipcode="332000">
@@ -1989,7 +1989,7 @@
             <district name="瑞昌市" />
         </city>
         <city name="Xinyu"
-              areacode="0790"
+              areaCode="0790"
               cn="新余市"
               short="新余"
               zipcode="338000">
@@ -1997,7 +1997,7 @@
             <district name="分宜县" />
         </city>
         <city name="Yingtan"
-              areacode="0701"
+              areaCode="0701"
               cn="鹰潭市"
               short="鹰潭"
               zipcode="335000">
@@ -2006,7 +2006,7 @@
             <district name="贵溪市" />
         </city>
         <city name="Ganzhou"
-              areacode="0797"
+              areaCode="0797"
               cn="赣州市"
               short="赣州"
               zipcode="341000">
@@ -2030,7 +2030,7 @@
             <district name="南康市" />
         </city>
         <city name="Jian"
-              areacode="0796"
+              areaCode="0796"
               cn="吉安市"
               short="吉安"
               zipcode="343000">
@@ -2049,7 +2049,7 @@
             <district name="井冈山市" />
         </city>
         <city name="Yichun"
-              areacode="0795"
+              areaCode="0795"
               cn="宜春市"
               short="宜春"
               zipcode="336000">
@@ -2065,7 +2065,7 @@
             <district name="高安市" />
         </city>
         <city name="Fuzhou"
-              areacode="0794"
+              areaCode="0794"
               cn="抚州市"
               short="抚州"
               zipcode="332900">
@@ -2082,7 +2082,7 @@
             <district name="广昌县" />
         </city>
         <city name="Shangrao"
-              areacode="0793"
+              areaCode="0793"
               cn="上饶市"
               short="上饶"
               zipcode="334000">
@@ -2106,7 +2106,7 @@
               short="山东"
               type="Province">
         <city name="Jinan"
-              areacode="0531"
+              areaCode="0531"
               cn="济南市"
               short="济南"
               zipcode="250000">
@@ -2122,7 +2122,7 @@
             <district name="章丘市" />
         </city>
         <city name="Qingdao"
-              areacode="0532"
+              areaCode="0532"
               cn="青岛市"
               short="青岛"
               zipcode="266000">
@@ -2140,7 +2140,7 @@
             <district name="莱西市" />
         </city>
         <city name="Zibo"
-              areacode="0533"
+              areaCode="0533"
               cn="淄博市"
               short="淄博"
               zipcode="255000">
@@ -2154,7 +2154,7 @@
             <district name="沂源县" />
         </city>
         <city name="Zaozhuang"
-              areacode="0632"
+              areaCode="0632"
               cn="枣庄市"
               short="枣庄"
               zipcode="277100">
@@ -2166,7 +2166,7 @@
             <district name="滕州市" />
         </city>
         <city name="Dongying"
-              areacode="0546"
+              areaCode="0546"
               cn="东营市"
               short="东营"
               zipcode="257000">
@@ -2177,7 +2177,7 @@
             <district name="广饶县" />
         </city>
         <city name="Yantai"
-              areacode="0535"
+              areaCode="0535"
               cn="烟台市"
               short="烟台"
               zipcode="264000">
@@ -2195,7 +2195,7 @@
             <district name="海阳市" />
         </city>
         <city name="Weifang"
-              areacode="0536"
+              areaCode="0536"
               cn="潍坊市"
               short="潍坊"
               zipcode="261000">
@@ -2213,7 +2213,7 @@
             <district name="昌邑市" />
         </city>
         <city name="Jining"
-              areacode="0537"
+              areaCode="0537"
               cn="济宁市"
               short="济宁"
               zipcode="272100">
@@ -2231,7 +2231,7 @@
             <district name="邹城市" />
         </city>
         <city name="Taian"
-              areacode="0538"
+              areaCode="0538"
               cn="泰安市"
               short="泰安"
               zipcode="271000">
@@ -2243,7 +2243,7 @@
             <district name="肥城市" />
         </city>
         <city name="Weihai"
-              areacode="0631"
+              areaCode="0631"
               cn="威海市"
               short="威海"
               zipcode="265700">
@@ -2253,7 +2253,7 @@
             <district name="乳山市" />
         </city>
         <city name="Rizhao"
-              areacode="0633"
+              areaCode="0633"
               cn="日照市"
               short="日照"
               zipcode="276800">
@@ -2263,7 +2263,7 @@
             <district name="莒县" />
         </city>
         <city name="Laiwu"
-              areacode="0634"
+              areaCode="0634"
               cn="莱芜市"
               short="莱芜"
               zipcode="271100">
@@ -2271,7 +2271,7 @@
             <district name="钢城区" />
         </city>
         <city name="Linyi"
-              areacode="0539"
+              areaCode="0539"
               cn="临沂市"
               short="临沂"
               zipcode="276000">
@@ -2289,7 +2289,7 @@
             <district name="临沭县" />
         </city>
         <city name="Dezhou"
-              areacode="0534"
+              areaCode="0534"
               cn="德州市"
               short="德州"
               zipcode="253000">
@@ -2306,7 +2306,7 @@
             <district name="禹城市" />
         </city>
         <city name="Liaocheng"
-              areacode="0635"
+              areaCode="0635"
               cn="聊城市"
               short="聊城"
               zipcode="252000">
@@ -2320,7 +2320,7 @@
             <district name="临清市" />
         </city>
         <city name="Binzhou"
-              areacode="0543"
+              areaCode="0543"
               cn="滨州市"
               short="滨州"
               zipcode="256600">
@@ -2333,7 +2333,7 @@
             <district name="邹平县" />
         </city>
         <city name="Heze"
-              areacode="0530"
+              areaCode="0530"
               cn="荷泽市"
               short="荷泽"
               zipcode="255000">
@@ -2354,7 +2354,7 @@
               short="河南"
               type="Province">>
         <city name="Zhengzhou"
-              areacode="0371"
+              areaCode="0371"
               cn="郑州市"
               short="郑州"
               zipcode="450000">
@@ -2372,7 +2372,7 @@
             <district name="登封市" />
         </city>
         <city name="Kaifeng"
-              areacode="0371"
+              areaCode="0371"
               cn="开封市"
               short="开封"
               zipcode="475000">
@@ -2388,7 +2388,7 @@
             <district name="兰考县" />
         </city>
         <city name="Luoyang"
-              areacode="0379"
+              areaCode="0379"
               cn="洛阳市"
               short="洛阳"
               zipcode="471000">
@@ -2409,7 +2409,7 @@
             <district name="偃师市" />
         </city>
         <city name="Pingdingshan"
-              areacode="0375"
+              areaCode="0375"
               cn="平顶山市"
               short="平顶山"
               zipcode="467000">
@@ -2425,7 +2425,7 @@
             <district name="汝州市" />
         </city>
         <city name="Anyang"
-              areacode="0372"
+              areaCode="0372"
               cn="安阳市"
               short="安阳"
               zipcode="454900">
@@ -2440,7 +2440,7 @@
             <district name="林州市" />
         </city>
         <city name="Hebi"
-              areacode="0392"
+              areaCode="0392"
               cn="鹤壁市"
               short="鹤壁"
               zipcode="456600">
@@ -2451,7 +2451,7 @@
             <district name="淇县" />
         </city>
         <city name="Xinxiang"
-              areacode="0373"
+              areaCode="0373"
               cn="新乡市"
               short="新乡"
               zipcode="453000">
@@ -2469,7 +2469,7 @@
             <district name="辉县市" />
         </city>
         <city name="Jiaozuo"
-              areacode="0391"
+              areaCode="0391"
               cn="焦作市"
               short="焦作"
               zipcode="454100">
@@ -2486,7 +2486,7 @@
             <district name="孟州市" />
         </city>
         <city name="Puyang"
-              areacode="0393"
+              areaCode="0393"
               cn="濮阳市"
               short="濮阳"
               zipcode="457000">
@@ -2498,7 +2498,7 @@
             <district name="濮阳县" />
         </city>
         <city name="Xuchang"
-              areacode="0374"
+              areaCode="0374"
               cn="许昌市"
               short="许昌"
               zipcode="461000">
@@ -2510,7 +2510,7 @@
             <district name="长葛市" />
         </city>
         <city name="Luohe"
-              areacode="0395"
+              areaCode="0395"
               cn="漯河市"
               short="漯河"
               zipcode="462000">
@@ -2521,7 +2521,7 @@
             <district name="临颍县" />
         </city>
         <city name="Sanmenxia"
-              areacode="0398"
+              areaCode="0398"
               cn="三门峡市"
               short="三门峡"
               zipcode="472000">
@@ -2534,7 +2534,7 @@
             <district name="灵宝市" />
         </city>
         <city name="Nanyang"
-              areacode="0377"
+              areaCode="0377"
               cn="南阳市"
               short="南阳"
               zipcode="473000">
@@ -2553,7 +2553,7 @@
             <district name="邓州市" />
         </city>
         <city name="Shangqiu"
-              areacode="0370"
+              areaCode="0370"
               cn="商丘市"
               short="商丘"
               zipcode="476000">
@@ -2568,7 +2568,7 @@
             <district name="永城市" />
         </city>
         <city name="Xinyang"
-              areacode="0376"
+              areaCode="0376"
               cn="信阳市"
               short="信阳"
               zipcode="464000">
@@ -2584,7 +2584,7 @@
             <district name="息县" />
         </city>
         <city name="Zhoukou"
-              areacode="0394"
+              areaCode="0394"
               cn="周口市"
               short="周口"
               zipcode="466000">
@@ -2600,7 +2600,7 @@
             <district name="项城市" />
         </city>
         <city name="Zhumadian"
-              areacode="0396"
+              areaCode="0396"
               cn="驻马店市"
               short="驻马店"
               zipcode="463000">
@@ -2622,7 +2622,7 @@
               short="湖北"
               type="Province">
         <city name="Wuhan"
-              areacode="027"
+              areaCode="027"
               cn="武汉市"
               short="武汉"
               zipcode="430000">
@@ -2641,7 +2641,7 @@
             <district name="新洲区" />
         </city>
         <city name="Huangshi"
-              areacode="0714"
+              areaCode="0714"
               cn="黄石市"
               short="黄石"
               zipcode="435000">
@@ -2653,7 +2653,7 @@
             <district name="大冶市" />
         </city>
         <city name="Shiyan"
-              areacode="0719"
+              areaCode="0719"
               cn="十堰市"
               short="十堰"
               zipcode="442000">
@@ -2667,7 +2667,7 @@
             <district name="丹江口市" />
         </city>
         <city name="Yichang"
-              areacode="0717"
+              areaCode="0717"
               cn="宜昌市"
               short="宜昌"
               zipcode="443000">
@@ -2686,7 +2686,7 @@
             <district name="枝江市" />
         </city>
         <city name="Xiangyang"
-              areacode="0710"
+              areaCode="0710"
               cn="襄阳市"
               short="襄阳"
               zipcode="441000">
@@ -2701,7 +2701,7 @@
             <district name="宜城市" />
         </city>
         <city name="Ezhou"
-              areacode="0711"
+              areaCode="0711"
               cn="鄂州市"
               short="鄂州"
               zipcode="436000">
@@ -2710,7 +2710,7 @@
             <district name="鄂城区" />
         </city>
         <city name="Jingmen"
-              areacode="0724"
+              areaCode="0724"
               cn="荆门市"
               short="荆门"
               zipcode="448000">
@@ -2721,7 +2721,7 @@
             <district name="钟祥市" />
         </city>
         <city name="Xiaogan"
-              areacode="0712"
+              areaCode="0712"
               cn="孝感市"
               short="孝感"
               zipcode="432100">
@@ -2734,7 +2734,7 @@
             <district name="汉川市" />
         </city>
         <city name="Jingzhou"
-              areacode="0716"
+              areaCode="0716"
               cn="荆州市"
               short="荆州"
               zipcode="434000">
@@ -2748,7 +2748,7 @@
             <district name="松滋市" />
         </city>
         <city name="Huanggang"
-              areacode="0713"
+              areaCode="0713"
               cn="黄冈市"
               short="黄冈"
               zipcode="438000">
@@ -2764,7 +2764,7 @@
             <district name="武穴市" />
         </city>
         <city name="Xianning"
-              areacode="0715"
+              areaCode="0715"
               cn="咸宁市"
               short="咸宁"
               zipcode="437000">
@@ -2776,7 +2776,7 @@
             <district name="赤壁市" />
         </city>
         <city name="Suizhou"
-              areacode="0722"
+              areaCode="0722"
               cn="随州市"
               short="随州"
               zipcode="441300">
@@ -2784,7 +2784,7 @@
             <district name="广水市" />
         </city>
         <city name="Enshi"
-              areacode="0718"
+              areaCode="0718"
               cn="恩施土家族苗族自治州"
               short="恩施"
               zipcode="445000">
@@ -2798,7 +2798,7 @@
             <district name="鹤峰县" />
         </city>
         <city name="Shennongjia"
-              areacode="0719"
+              areaCode="0719"
               cn="神农架"
               short="神农架"
               zipcode="442400">
@@ -2814,7 +2814,7 @@
               short="湖南"
               type="Province">
         <city name="Changsha"
-              areacode="0731"
+              areaCode="0731"
               cn="长沙市"
               short="长沙"
               zipcode="410000">
@@ -2829,7 +2829,7 @@
             <district name="浏阳市" />
         </city>
         <city name="Zhuzhou"
-              areacode="0731"
+              areaCode="0731"
               cn="株洲市"
               short="株洲"
               zipcode="412000">
@@ -2844,7 +2844,7 @@
             <district name="醴陵市" />
         </city>
         <city name="Xiangtan"
-              areacode="0731"
+              areaCode="0731"
               cn="湘潭市"
               short="湘潭"
               zipcode="411100">
@@ -2855,7 +2855,7 @@
             <district name="韶山市" />
         </city>
         <city name="Hengyang"
-              areacode="0734"
+              areaCode="0734"
               cn="衡阳市"
               short="衡阳"
               zipcode="421000">
@@ -2873,7 +2873,7 @@
             <district name="常宁市" />
         </city>
         <city name="Shaoyang"
-              areacode="0739"
+              areaCode="0739"
               cn="邵阳市"
               short="邵阳"
               zipcode="422000">
@@ -2891,7 +2891,7 @@
             <district name="武冈市" />
         </city>
         <city name="Yueyang"
-              areacode="0730"
+              areaCode="0730"
               cn="岳阳市"
               short="岳阳"
               zipcode="414000">
@@ -2906,7 +2906,7 @@
             <district name="临湘市" />
         </city>
         <city name="Changde"
-              areacode="0736"
+              areaCode="0736"
               cn="常德市"
               short="常德"
               zipcode="415000">
@@ -2921,7 +2921,7 @@
             <district name="津市市" />
         </city>
         <city name="Zhangjiajie"
-              areacode="0744"
+              areaCode="0744"
               cn="张家界市"
               short="张家界"
               zipcode="427000">
@@ -2931,7 +2931,7 @@
             <district name="桑植县" />
         </city>
         <city name="Yiyang"
-              areacode="0737"
+              areaCode="0737"
               cn="益阳市"
               short="益阳"
               zipcode="413000">
@@ -2943,7 +2943,7 @@
             <district name="沅江市" />
         </city>
         <city name="Chenzhou"
-              areacode="0735"
+              areaCode="0735"
               cn="郴州市"
               short="郴州"
               zipcode="423000">
@@ -2960,7 +2960,7 @@
             <district name="资兴市" />
         </city>
         <city name="Yongzhou"
-              areacode="0746"
+              areaCode="0746"
               cn="永州市"
               short="永州"
               zipcode="425000">
@@ -2977,7 +2977,7 @@
             <district name="江华瑶族自治县" />
         </city>
         <city name="Huaihua"
-              areacode="0745"
+              areaCode="0745"
               cn="怀化市"
               short="怀化"
               zipcode="418000">
@@ -2995,7 +2995,7 @@
             <district name="洪江市" />
         </city>
         <city name="Loudi"
-              areacode="0738"
+              areaCode="0738"
               cn="娄底市"
               short="娄底"
               zipcode="417000">
@@ -3006,7 +3006,7 @@
             <district name="涟源市" />
         </city>
         <city name="Xiangxi"
-              areacode="0743"
+              areaCode="0743"
               cn="湘西土家族苗族自治州"
               short="湘西"
               zipcode="416000">
@@ -3026,7 +3026,7 @@
               short="广东"
               type="Province">
         <city name="Guangzhou"
-              areacode="020"
+              areaCode="020"
               cn="广州市"
               short="广州"
               zipcode="510000">
@@ -3044,7 +3044,7 @@
             <district name="从化市" />
         </city>
         <city name="Shaoguan"
-              areacode="0751"
+              areaCode="0751"
               cn="韶关市"
               short="韶关"
               zipcode="521000">
@@ -3060,7 +3060,7 @@
             <district name="南雄市" />
         </city>
         <city name="Shenzhen"
-              areacode="0755"
+              areaCode="0755"
               cn="深圳市"
               short="深圳"
               zipcode="518000">
@@ -3072,7 +3072,7 @@
             <district name="盐田区" />
         </city>
         <city name="Zhuhai"
-              areacode="0756"
+              areaCode="0756"
               cn="珠海市"
               short="珠海"
               zipcode="519000">
@@ -3081,7 +3081,7 @@
             <district name="金湾区" />
         </city>
         <city name="Shantou"
-              areacode="0754"
+              areaCode="0754"
               cn="汕头市"
               short="汕头"
               zipcode="515000">
@@ -3094,7 +3094,7 @@
             <district name="南澳县" />
         </city>
         <city name="Foshan"
-              areacode="0757"
+              areaCode="0757"
               cn="佛山市"
               short="佛山"
               zipcode="528000">
@@ -3105,7 +3105,7 @@
             <district name="高明区" />
         </city>
         <city name="Jiangmen"
-              areacode="0750"
+              areaCode="0750"
               cn="江门市"
               short="江门"
               zipcode="529000">
@@ -3118,7 +3118,7 @@
             <district name="恩平市" />
         </city>
         <city name="Zhanjiang"
-              areacode="0759"
+              areaCode="0759"
               cn="湛江市"
               short="湛江"
               zipcode="524000">
@@ -3133,7 +3133,7 @@
             <district name="吴川市" />
         </city>
         <city name="Maoming"
-              areacode="0668"
+              areaCode="0668"
               cn="茂名市"
               short="茂名"
               zipcode="525000">
@@ -3145,7 +3145,7 @@
             <district name="信宜市" />
         </city>
         <city name="Zhaoqing"
-              areacode="0758"
+              areaCode="0758"
               cn="肇庆市"
               short="肇庆"
               zipcode="526000">
@@ -3159,7 +3159,7 @@
             <district name="四会市" />
         </city>
         <city name="Huizhou"
-              areacode="0752"
+              areaCode="0752"
               cn="惠州市"
               short="惠州"
               zipcode="516000">
@@ -3170,7 +3170,7 @@
             <district name="龙门县" />
         </city>
         <city name="Meizhou"
-              areacode="0752"
+              areaCode="0752"
               cn="梅州市"
               short="梅州"
               zipcode="514000">
@@ -3184,7 +3184,7 @@
             <district name="兴宁市" />
         </city>
         <city name="Shanwei"
-              areacode="0660"
+              areaCode="0660"
               cn="汕尾市"
               short="汕尾"
               zipcode="516600">
@@ -3194,7 +3194,7 @@
             <district name="陆丰市" />
         </city>
         <city name="Heyuan"
-              areacode="0762"
+              areaCode="0762"
               cn="河源市"
               short="河源"
               zipcode="517000">
@@ -3206,7 +3206,7 @@
             <district name="东源县" />
         </city>
         <city name="Yangjiang"
-              areacode="0662"
+              areaCode="0662"
               cn="阳江市"
               short="阳江"
               zipcode="529500">
@@ -3216,7 +3216,7 @@
             <district name="阳春市" />
         </city>
         <city name="Qingyuan"
-              areacode="0763"
+              areaCode="0763"
               cn="清远市"
               short="清远"
               zipcode="511500">
@@ -3230,17 +3230,17 @@
             <district name="连州市" />
         </city>
         <city name="Dongguan"
-              areacode="0769"
+              areaCode="0769"
               cn="东莞市"
               short="东莞"
               zipcode="511700" />
         <city name="Zhongshan"
-              areacode="0760"
+              areaCode="0760"
               cn="中山市"
               short="中山"
               zipcode="528400" />
         <city name="Chaozhou"
-              areacode="0768"
+              areaCode="0768"
               cn="潮州市"
               short="潮州"
               zipcode="515600">
@@ -3249,7 +3249,7 @@
             <district name="饶平县" />
         </city>
         <city name="Jieyang"
-              areacode="0663"
+              areaCode="0663"
               cn="揭阳市"
               short="揭阳"
               zipcode="522000">
@@ -3260,7 +3260,7 @@
             <district name="普宁市" />
         </city>
         <city name="Yunfu"
-              areacode="0766"
+              areaCode="0766"
               cn="云浮市"
               short="云浮"
               zipcode="527300">
@@ -3277,7 +3277,7 @@
               short="广西"
               type="Autonomous region">
         <city name="Nanning"
-              areacode="0771"
+              areaCode="0771"
               cn="南宁市"
               short="南宁"
               zipcode="530000">
@@ -3295,7 +3295,7 @@
             <district name="横县" />
         </city>
         <city name="Liuzhou"
-              areacode="0772"
+              areaCode="0772"
               cn="柳州市"
               short="柳州"
               zipcode="545000">
@@ -3311,7 +3311,7 @@
             <district name="三江侗族自治县" />
         </city>
         <city name="Guilin"
-              areacode="0773"
+              areaCode="0773"
               cn="桂林市"
               short="桂林"
               zipcode="541000">
@@ -3334,7 +3334,7 @@
             <district name="恭城瑶族自治县" />
         </city>
         <city name="Wuzhou"
-              areacode="0774"
+              areaCode="0774"
               cn="梧州市"
               short="梧州"
               zipcode="543000">
@@ -3347,7 +3347,7 @@
             <district name="岑溪市" />
         </city>
         <city name="Beihai"
-              areacode="0779"
+              areaCode="0779"
               cn="北海市"
               short="北海"
               zipcode="536000">
@@ -3357,7 +3357,7 @@
             <district name="合浦县" />
         </city>
         <city name="Fangchenggang"
-              areacode="0770"
+              areaCode="0770"
               cn="防城港市"
               short="防城港"
               zipcode="538000">
@@ -3367,7 +3367,7 @@
             <district name="东兴市" />
         </city>
         <city name="Qinzhou"
-              areacode="0777"
+              areaCode="0777"
               cn="钦州市"
               short="钦州"
               zipcode="535000">
@@ -3377,7 +3377,7 @@
             <district name="浦北县" />
         </city>
         <city name="Guigang"
-              areacode="0775"
+              areaCode="0775"
               cn="贵港市"
               short="贵港"
               zipcode="537100">
@@ -3388,7 +3388,7 @@
             <district name="桂平市" />
         </city>
         <city name="Yulin"
-              areacode="0775"
+              areaCode="0775"
               cn="玉林市"
               short="玉林"
               zipcode="537000">
@@ -3400,7 +3400,7 @@
             <district name="北流市" />
         </city>
         <city name="Baise"
-              areacode="0776"
+              areaCode="0776"
               cn="百色市"
               short="百色"
               zipcode="533000">
@@ -3418,7 +3418,7 @@
             <district name="隆林各族自治县" />
         </city>
         <city name="Hezhou"
-              areacode="0774"
+              areaCode="0774"
               cn="贺州市"
               short="贺州"
               zipcode="542800">
@@ -3428,7 +3428,7 @@
             <district name="富川瑶族自治县" />
         </city>
         <city name="Hechi"
-              areacode="0778"
+              areaCode="0778"
               cn="河池市"
               short="河池"
               zipcode="547000">
@@ -3445,7 +3445,7 @@
             <district name="宜州市" />
         </city>
         <city name="Laibin"
-              areacode="0772"
+              areaCode="0772"
               cn="来宾市"
               short="来宾"
               zipcode="546100">
@@ -3457,7 +3457,7 @@
             <district name="合山市" />
         </city>
         <city name="Chongzuo"
-              areacode="0771"
+              areaCode="0771"
               cn="崇左市"
               short="崇左"
               zipcode="532200">
@@ -3476,7 +3476,7 @@
               short="海南"
               type="Province">
         <city name="Haikou"
-              areacode="0898"
+              areaCode="0898"
               cn="海口市"
               short="海口"
               zipcode="570000">
@@ -3486,7 +3486,7 @@
             <district name="美兰区" />
         </city>
         <city name="Sanya"
-              areacode="0898"
+              areaCode="0898"
               cn="三亚市"
               short="三亚"
               zipcode="572000">
@@ -3517,7 +3517,7 @@
               short="重庆"
               type="Municipality">
         <city name="Chongqing"
-              areacode="023"
+              areaCode="023"
               cn="重庆市"
               short="重庆"
               zipcode="400000">
@@ -3569,7 +3569,7 @@
               short="四川"
               type="Province">
         <city name="Chengdu"
-              areacode="028"
+              areaCode="028"
               cn="成都市"
               short="成都"
               zipcode="610000">
@@ -3594,7 +3594,7 @@
             <district name="崇州市" />
         </city>
         <city name="Zigong"
-              areacode="0813"
+              areaCode="0813"
               cn="自贡市"
               short="自贡"
               zipcode="643000">
@@ -3606,7 +3606,7 @@
             <district name="富顺县" />
         </city>
         <city name="Panzhihua"
-              areacode="0812"
+              areaCode="0812"
               cn="攀枝花市"
               short="攀枝花"
               zipcode="617000">
@@ -3617,7 +3617,7 @@
             <district name="盐边县" />
         </city>
         <city name="Luzhou"
-              areacode="0830"
+              areaCode="0830"
               cn="泸州市"
               short="泸州"
               zipcode="646100">
@@ -3630,7 +3630,7 @@
             <district name="古蔺县" />
         </city>
         <city name="Deyang"
-              areacode="0838"
+              areaCode="0838"
               cn="德阳市"
               short="德阳"
               zipcode="618000">
@@ -3642,7 +3642,7 @@
             <district name="绵竹市" />
         </city>
         <city name="Mianyang"
-              areacode="0816"
+              areaCode="0816"
               cn="绵阳市"
               short="绵阳"
               zipcode="621000">
@@ -3657,7 +3657,7 @@
             <district name="江油市" />
         </city>
         <city name="Guangyuan"
-              areacode="0839"
+              areaCode="0839"
               cn="广元市"
               short="广元"
               zipcode="628000">
@@ -3670,7 +3670,7 @@
             <district name="苍溪县" />
         </city>
         <city name="Suining"
-              areacode="0825"
+              areaCode="0825"
               cn="遂宁市"
               short="遂宁"
               zipcode="629000">
@@ -3681,7 +3681,7 @@
             <district name="大英县" />
         </city>
         <city name="Neijiang"
-              areacode="0823"
+              areaCode="0823"
               cn="内江市"
               short="内江"
               zipcode="641000">
@@ -3692,7 +3692,7 @@
             <district name="隆昌县" />
         </city>
         <city name="Leshan"
-              areacode="0833"
+              areaCode="0833"
               cn="乐山市"
               short="乐山"
               zipcode="614000">
@@ -3709,7 +3709,7 @@
             <district name="峨眉山市" />
         </city>
         <city name="Nanchong"
-              areacode="0817"
+              areaCode="0817"
               cn="南充市"
               short="南充"
               zipcode="637000">
@@ -3724,7 +3724,7 @@
             <district name="阆中市" />
         </city>
         <city name="Meishan"
-              areacode="028"
+              areaCode="028"
               cn="眉山市"
               short="眉山"
               zipcode="612100">
@@ -3736,7 +3736,7 @@
             <district name="青神县" />
         </city>
         <city name="Yibin"
-              areacode="0831"
+              areaCode="0831"
               cn="宜宾市"
               short="宜宾"
               zipcode="644000">
@@ -3752,7 +3752,7 @@
             <district name="屏山县" />
         </city>
         <city name="Guangan"
-              areacode="0826"
+              areaCode="0826"
               cn="广安市"
               short="广安"
               zipcode="638000">
@@ -3763,7 +3763,7 @@
             <district name="华蓥市" />
         </city>
         <city name="Dazhou"
-              areacode="0818"
+              areaCode="0818"
               cn="达州市"
               short="达州"
               zipcode="635000">
@@ -3776,7 +3776,7 @@
             <district name="万源市" />
         </city>
         <city name="Yaan"
-              areacode="0835"
+              areaCode="0835"
               cn="雅安市"
               short="雅安"
               zipcode="625000">
@@ -3790,7 +3790,7 @@
             <district name="宝兴县" />
         </city>
         <city name="Bazhong"
-              areacode="0827"
+              areaCode="0827"
               cn="巴中市"
               short="巴中"
               zipcode="635500">
@@ -3800,7 +3800,7 @@
             <district name="平昌县" />
         </city>
         <city name="Ziyang"
-              areacode="028"
+              areaCode="028"
               cn="资阳市"
               short="资阳"
               zipcode="641300">
@@ -3810,7 +3810,7 @@
             <district name="简阳市" />
         </city>
         <city name="Aba"
-              areacode="0837"
+              areaCode="0837"
               cn="阿坝藏族羌族自治州"
               short="阿坝"
               zipcode="624600">
@@ -3829,7 +3829,7 @@
             <district name="红原县" />
         </city>
         <city name="Ganzi"
-              areacode="0836"
+              areaCode="0836"
               cn="甘孜藏族自治州"
               short="甘孜"
               zipcode="626000">
@@ -3853,7 +3853,7 @@
             <district name="得荣县" />
         </city>
         <city name="Liangshan"
-              areacode="0834"
+              areaCode="0834"
               cn="凉山彝族自治州"
               short="凉山"
               zipcode="615000">
@@ -3882,7 +3882,7 @@
               short="贵州"
               type="Province">
         <city name="Guiyang"
-              areacode="0851"
+              areaCode="0851"
               cn="贵阳市"
               short="贵阳"
               zipcode="55000">
@@ -3898,7 +3898,7 @@
             <district name="清镇市" />
         </city>
         <city name="Liupanshui"
-              areacode="0858"
+              areaCode="0858"
               cn="六盘水市"
               short="六盘水"
               zipcode="553000">
@@ -3908,7 +3908,7 @@
             <district name="盘县" />
         </city>
         <city name="Zunyi"
-              areacode="0852"
+              areaCode="0852"
               cn="遵义市"
               short="遵义"
               zipcode="563000">
@@ -3928,7 +3928,7 @@
             <district name="仁怀市" />
         </city>
         <city name="Anshun"
-              areacode="0853"
+              areaCode="0853"
               cn="安顺市"
               short="安顺"
               zipcode="561000">
@@ -3940,7 +3940,7 @@
             <district name="紫云苗族布依族自治县" />
         </city>
         <city name="Tongren"
-              areacode="0856"
+              areaCode="0856"
               cn="铜仁地区"
               short="铜仁"
               zipcode="554300">
@@ -3956,7 +3956,7 @@
             <district name="万山特区" />
         </city>
         <city name="Qianxinan"
-              areacode="0859"
+              areaCode="0859"
               cn="黔西南布依族苗族自治州"
               short="黔西南"
               zipcode="551500">
@@ -3970,7 +3970,7 @@
             <district name="安龙县" />
         </city>
         <city name="Bijie"
-              areacode="0857"
+              areaCode="0857"
               cn="毕节地区"
               short="毕节"
               zipcode="551700">
@@ -3984,7 +3984,7 @@
             <district name="赫章县" />
         </city>
         <city name="Qiandongnan"
-              areacode="0855"
+              areaCode="0855"
               cn="黔东南苗族侗族自治州"
               short="黔东南"
               zipcode="551500">
@@ -4006,7 +4006,7 @@
             <district name="丹寨县" />
         </city>
         <city name="Qiannan"
-              areacode="0854"
+              areaCode="0854"
               cn="黔南布依族苗族自治州"
               short="黔南"
               zipcode="550100">
@@ -4030,7 +4030,7 @@
               short="云南"
               type="Province">
         <city name="Kunming"
-              areacode="0871"
+              areaCode="0871"
               cn="昆明市"
               short="昆明"
               zipcode="650000">
@@ -4050,7 +4050,7 @@
             <district name="安宁市" />
         </city>
         <city name="Qujing"
-              areacode="0874"
+              areaCode="0874"
               cn="曲靖市"
               short="曲靖"
               zipcode="655000">
@@ -4065,7 +4065,7 @@
             <district name="宣威市" />
         </city>
         <city name="Yuxi"
-              areacode="0877"
+              areaCode="0877"
               cn="玉溪市"
               short="玉溪"
               zipcode="653100">
@@ -4080,7 +4080,7 @@
             <district name="元江哈尼族彝族傣族自治县" />
         </city>
         <city name="Baoshan"
-              areacode="0875"
+              areaCode="0875"
               cn="保山市"
               short="保山"
               zipcode="678000">
@@ -4091,7 +4091,7 @@
             <district name="昌宁县" />
         </city>
         <city name="Zhaotong"
-              areacode="0870"
+              areaCode="0870"
               cn="昭通市"
               short="昭通"
               zipcode="657000">
@@ -4108,7 +4108,7 @@
             <district name="水富县" />
         </city>
         <city name="Lijiang"
-              areacode="0888"
+              areaCode="0888"
               cn="丽江市"
               short="丽江"
               zipcode="674100">
@@ -4119,7 +4119,7 @@
             <district name="宁蒗彝族自治县" />
         </city>
         <city name="Puer"
-              areacode="0879"
+              areaCode="0879"
               cn="普洱市"
               short="普洱"
               zipcode="665000">
@@ -4135,7 +4135,7 @@
             <district name="西盟佤族自治县" />
         </city>
         <city name="Lincang"
-              areacode="0883"
+              areaCode="0883"
               cn="临沧市"
               short="临沧"
               zipcode="677000">
@@ -4149,7 +4149,7 @@
             <district name="沧源佤族自治县" />
         </city>
         <city name="Chuxiong"
-              areacode="0878"
+              areaCode="0878"
               cn="楚雄彝族自治州"
               short="楚雄"
               zipcode="675000">
@@ -4165,7 +4165,7 @@
             <district name="禄丰县" />
         </city>
         <city name="Honghe"
-              areacode="0873"
+              areaCode="0873"
               cn="红河哈尼族彝族自治州"
               short="红河"
               zipcode="654400">
@@ -4184,7 +4184,7 @@
             <district name="河口瑶族自治县" />
         </city>
         <city name="Wenshan"
-              areacode="0876"
+              areaCode="0876"
               cn="文山壮族苗族自治州"
               short="文山"
               zipcode="663000">
@@ -4198,7 +4198,7 @@
             <district name="富宁县" />
         </city>
         <city name="Xishuangbanna"
-              areacode="0691"
+              areaCode="0691"
               cn="西双版纳傣族自治州"
               short="西双版纳"
               zipcode="666200">
@@ -4207,7 +4207,7 @@
             <district name="勐腊县" />
         </city>
         <city name="Dali"
-              areacode="0872"
+              areaCode="0872"
               cn="大理白族自治州"
               short="大理"
               zipcode="671000">
@@ -4225,7 +4225,7 @@
             <district name="鹤庆县" />
         </city>
         <city name="Dehong"
-              areacode="0692"
+              areaCode="0692"
               cn="德宏傣族景颇族自治州"
               short="德宏"
               zipcode="678400">
@@ -4236,7 +4236,7 @@
             <district name="陇川县" />
         </city>
         <city name="Nujiang"
-              areacode="0886"
+              areaCode="0886"
               cn="怒江傈僳族自治州"
               short="怒江"
               zipcode="671400">
@@ -4246,7 +4246,7 @@
             <district name="兰坪白族普米族自治县" />
         </city>
         <city name="Diqing"
-              areacode="0887"
+              areaCode="0887"
               cn="迪庆藏族自治州"
               short="迪庆"
               zipcode="674400">
@@ -4261,7 +4261,7 @@
               short="西藏"
               type="Autonomous region">
         <city name="Lasa"
-              areacode="0891"
+              areaCode="0891"
               cn="拉萨市"
               short="拉萨"
               zipcode="850000">
@@ -4275,7 +4275,7 @@
             <district name="墨竹工卡县" />
         </city>
         <city name="Changdu"
-              areacode="0895"
+              areaCode="0895"
               cn="昌都地区"
               short="昌都"
               zipcode="854000">
@@ -4292,7 +4292,7 @@
             <district name="边坝县" />
         </city>
         <city name="Shannan"
-              areacode="0893"
+              areaCode="0893"
               cn="山南地区"
               short="山南"
               zipcode="856000">
@@ -4310,7 +4310,7 @@
             <district name="浪卡子县" />
         </city>
         <city name="Rikaze"
-              areacode="0892"
+              areaCode="0892"
               cn="日喀则地区"
               short="日喀则"
               zipcode="857000">
@@ -4334,7 +4334,7 @@
             <district name="岗巴县" />
         </city>
         <city name="Naqu"
-              areacode="0896"
+              areaCode="0896"
               cn="那曲地区"
               short="那曲"
               zipcode="852000">
@@ -4350,7 +4350,7 @@
             <district name="尼玛县" />
         </city>
         <city name="Ali"
-              areacode="0897"
+              areaCode="0897"
               cn="阿里地区"
               short="阿里"
               zipcode="859100">
@@ -4363,7 +4363,7 @@
             <district name="措勤县" />
         </city>
         <city name="Linzhi"
-              areacode="0894"
+              areaCode="0894"
               cn="林芝地区"
               short="林芝"
               zipcode="860100">
@@ -4382,7 +4382,7 @@
               short="陕西"
               type="Province">
         <city name="Xian"
-              areacode="029"
+              areaCode="029"
               cn="西安市"
               short="西安"
               zipcode="710000">
@@ -4401,7 +4401,7 @@
             <district name="高陵县" />
         </city>
         <city name="Tongchuan"
-              areacode="0919"
+              areaCode="0919"
               cn="铜川市"
               short="铜川"
               zipcode="727000">
@@ -4411,7 +4411,7 @@
             <district name="宜君县" />
         </city>
         <city name="Baoji"
-              areacode="0917"
+              areaCode="0917"
               cn="宝鸡市"
               short="宝鸡"
               zipcode="721000">
@@ -4429,7 +4429,7 @@
             <district name="太白县" />
         </city>
         <city name="Xianyang"
-              areacode="029"
+              areaCode="029"
               cn="咸阳市"
               short="咸阳"
               zipcode="712000">
@@ -4449,7 +4449,7 @@
             <district name="兴平市" />
         </city>
         <city name="Weinan"
-              areacode="0913"
+              areaCode="0913"
               cn="渭南市"
               short="渭南"
               zipcode="714000">
@@ -4466,7 +4466,7 @@
             <district name="华阴市" />
         </city>
         <city name="Yanan"
-              areacode="0911"
+              areaCode="0911"
               cn="延安市"
               short="延安"
               zipcode="716000">
@@ -4485,7 +4485,7 @@
             <district name="黄陵县" />
         </city>
         <city name="Hanzhong"
-              areacode="0916"
+              areaCode="0916"
               cn="汉中市"
               short="汉中"
               zipcode="723000">
@@ -4502,7 +4502,7 @@
             <district name="佛坪县" />
         </city>
         <city name="Yulin"
-              areacode="0912"
+              areaCode="0912"
               cn="榆林市"
               short="榆林"
               zipcode="719000">
@@ -4520,7 +4520,7 @@
             <district name="子洲县" />
         </city>
         <city name="Ankang"
-              areacode="0915"
+              areaCode="0915"
               cn="安康市"
               short="安康"
               zipcode="725000">
@@ -4536,7 +4536,7 @@
             <district name="白河县" />
         </city>
         <city name="Shangluo"
-              areacode="0914"
+              areaCode="0914"
               cn="商洛市"
               short="商洛"
               zipcode="711500">
@@ -4555,7 +4555,7 @@
               short="甘肃"
               type="Province">
         <city name="Lanzhou"
-              areacode="0931"
+              areaCode="0931"
               cn="兰州市"
               short="兰州"
               zipcode="730000">
@@ -4569,12 +4569,12 @@
             <district name="榆中县" />
         </city>
         <city name="Jiayuguan"
-              areacode="0937"
+              areaCode="0937"
               cn="嘉峪关市"
               short="嘉峪关"
               zipcode="735100" />
         <city name="Jinchang"
-              areacode="0935"
+              areaCode="0935"
               cn="金昌市"
               short="金昌"
               zipcode="737100">
@@ -4582,7 +4582,7 @@
             <district name="永昌县" />
         </city>
         <city name="Baiyin"
-              areacode="0943"
+              areaCode="0943"
               cn="白银市"
               short="白银"
               zipcode="730900">
@@ -4593,7 +4593,7 @@
             <district name="景泰县" />
         </city>
         <city name="Tianshui"
-              areacode="0938"
+              areaCode="0938"
               cn="天水市"
               short="天水"
               zipcode="741000">
@@ -4606,7 +4606,7 @@
             <district name="张家川回族自治县" />
         </city>
         <city name="Wuwei"
-              areacode="0935"
+              areaCode="0935"
               cn="武威市"
               short="武威"
               zipcode="733000">
@@ -4616,7 +4616,7 @@
             <district name="天祝藏族自治县" />
         </city>
         <city name="Zhangye"
-              areacode="0936"
+              areaCode="0936"
               cn="张掖市"
               short="张掖"
               zipcode="734000">
@@ -4628,7 +4628,7 @@
             <district name="山丹县" />
         </city>
         <city name="Pingliang"
-              areacode="0933"
+              areaCode="0933"
               cn="平凉市"
               short="平凉"
               zipcode="744000">
@@ -4641,7 +4641,7 @@
             <district name="静宁县" />
         </city>
         <city name="Jiuquan"
-              areacode="0937"
+              areaCode="0937"
               cn="酒泉市"
               short="酒泉"
               zipcode="735000">
@@ -4654,7 +4654,7 @@
             <district name="敦煌市" />
         </city>
         <city name="Qingyang"
-              areacode="0934"
+              areaCode="0934"
               cn="庆阳市"
               short="庆阳"
               zipcode="744500">
@@ -4668,7 +4668,7 @@
             <district name="镇原县" />
         </city>
         <city name="Dingxi"
-              areacode="0932"
+              areaCode="0932"
               cn="定西市"
               short="定西"
               zipcode="743000">
@@ -4681,7 +4681,7 @@
             <district name="岷县" />
         </city>
         <city name="Longnan"
-              areacode="0939"
+              areaCode="0939"
               cn="陇南市"
               short="陇南"
               zipcode="742100">
@@ -4696,7 +4696,7 @@
             <district name="两当县" />
         </city>
         <city name="Linxia"
-              areacode="0930"
+              areaCode="0930"
               cn="临夏回族自治州"
               short="临夏"
               zipcode="731100">
@@ -4710,7 +4710,7 @@
             <district name="积石山保安族东乡族撒拉族自治县" />
         </city>
         <city name="Gannan"
-              areacode="0941"
+              areaCode="0941"
               cn="甘南藏族自治州"
               short="甘南"
               zipcode="747000">
@@ -4730,7 +4730,7 @@
               short="青海"
               type="Province">
         <city name="Xining"
-              areacode="0971"
+              areaCode="0971"
               cn="西宁市"
               short="西宁"
               zipcode="810000">
@@ -4743,7 +4743,7 @@
             <district name="湟源县" />
         </city>
         <city name="Haidong"
-              areacode="0972"
+              areaCode="0972"
               cn="海东地区"
               short="海东"
               zipcode="810600">
@@ -4755,7 +4755,7 @@
             <district name="循化撒拉族自治县" />
         </city>
         <city name="Haibei"
-              areacode="0970"
+              areaCode="0970"
               cn="海北藏族自治州"
               short="海北"
               zipcode="810300">
@@ -4765,7 +4765,7 @@
             <district name="刚察县" />
         </city>
         <city name="Huangnan"
-              areacode="0973"
+              areaCode="0973"
               cn="黄南藏族自治州"
               short="黄南"
               zipcode="811300">
@@ -4775,7 +4775,7 @@
             <district name="河南蒙古族自治县" />
         </city>
         <city name="Hainan"
-              areacode="0974"
+              areaCode="0974"
               cn="海南藏族自治州"
               short="海南"
               zipcode="813000">
@@ -4786,7 +4786,7 @@
             <district name="贵南县" />
         </city>
         <city name="Guoluo"
-              areacode="0975"
+              areaCode="0975"
               cn="果洛藏族自治州"
               short="果洛"
               zipcode="814000">
@@ -4798,7 +4798,7 @@
             <district name="玛多县" />
         </city>
         <city name="Yushu"
-              areacode="0976"
+              areaCode="0976"
               cn="玉树藏族自治州"
               short="玉树"
               zipcode="815000">
@@ -4810,7 +4810,7 @@
             <district name="曲麻莱县" />
         </city>
         <city name="Haixi"
-              areacode="0977/0799"
+              areaCode="0977/0799"
               cn="海西蒙古族藏族自治州"
               short="海西"
               zipcode="817000">
@@ -4827,7 +4827,7 @@
               short="宁夏"
               type="Autonomous region">
         <city name="Yinchuan"
-              areacode="0951"
+              areaCode="0951"
               cn="银川市"
               short="银川"
               zipcode="750000">
@@ -4839,7 +4839,7 @@
             <district name="灵武市" />
         </city>
         <city name="Shizuishan"
-              areacode="0952"
+              areaCode="0952"
               cn="石嘴山市"
               short="石嘴山"
               zipcode="753000">
@@ -4848,7 +4848,7 @@
             <district name="平罗县" />
         </city>
         <city name="Wuzhong"
-              areacode="0953"
+              areaCode="0953"
               cn="吴忠市"
               short="吴忠"
               zipcode="751100">
@@ -4858,7 +4858,7 @@
             <district name="青铜峡市" />
         </city>
         <city name="Guyuan"
-              areacode="0954"
+              areaCode="0954"
               cn="固原市"
               short="固原"
               zipcode="756000">
@@ -4869,7 +4869,7 @@
             <district name="彭阳县" />
         </city>
         <city name="Zhongwei"
-              areacode="0955"
+              areaCode="0955"
               cn="中卫市"
               short="中卫"
               zipcode="751700">
@@ -4884,7 +4884,7 @@
               short="新疆"
               type="Autonomous region">
         <city name="Wulumuqi"
-              areacode="0991"
+              areaCode="0991"
               cn="乌鲁木齐市"
               short="乌鲁木齐"
               zipcode="830000">
@@ -4898,7 +4898,7 @@
             <district name="乌鲁木齐县" />
         </city>
         <city name="Kelamayi"
-              areacode="0990"
+              areaCode="0990"
               cn="克拉玛依市"
               short="克拉玛依"
               zipcode="834000">
@@ -4908,7 +4908,7 @@
             <district name="乌尔禾区" />
         </city>
         <city name="Tulufan"
-              areacode="0995"
+              areaCode="0995"
               cn="吐鲁番地区"
               short="吐鲁番"
               zipcode="838000">
@@ -4917,7 +4917,7 @@
             <district name="托克逊县" />
         </city>
         <city name="Hami"
-              areacode="0902"
+              areaCode="0902"
               cn="哈密地区"
               short="哈密"
               zipcode="839000">
@@ -4926,7 +4926,7 @@
             <district name="伊吾县" />
         </city>
         <city name="Changji"
-              areacode="0994"
+              areaCode="0994"
               cn="昌吉回族自治州"
               short="昌吉"
               zipcode="831100">
@@ -4940,7 +4940,7 @@
             <district name="木垒哈萨克自治县" />
         </city>
         <city name="Boertala"
-              areacode="0909"
+              areaCode="0909"
               cn="博尔塔拉蒙古自治州"
               short="博尔塔拉"
               zipcode="833400">
@@ -4949,7 +4949,7 @@
             <district name="温泉县" />
         </city>
         <city name="Bayinguoleng"
-              areacode="0996"
+              areaCode="0996"
               cn="巴音郭楞蒙古自治州"
               short="巴音郭楞"
               zipcode="841000">
@@ -4964,7 +4964,7 @@
             <district name="博湖县" />
         </city>
         <city name="Akesu"
-              areacode="0997"
+              areaCode="0997"
               cn="阿克苏地区"
               short="阿克苏"
               zipcode="843000">
@@ -4979,7 +4979,7 @@
             <district name="柯坪县" />
         </city>
         <city name="Kezilesukeerkezi"
-              areacode="0908"
+              areaCode="0908"
               cn="克孜勒苏柯尔克孜自治州"
               short="克孜勒苏柯尔克孜"
               zipcode="835600">
@@ -4989,7 +4989,7 @@
             <district name="乌恰县" />
         </city>
         <city name="Kashi"
-              areacode="0998"
+              areaCode="0998"
               cn="喀什地区"
               short="喀什"
               zipcode="844000">
@@ -5007,7 +5007,7 @@
             <district name="塔什库尔干塔吉克自治县" />
         </city>
         <city name="Hetian"
-              areacode="0903"
+              areaCode="0903"
               cn="和田地区"
               short="和田"
               zipcode="848000">
@@ -5021,7 +5021,7 @@
             <district name="民丰县" />
         </city>
         <city name="Yilihasake"
-              areacode="0992"
+              areaCode="0992"
               cn="伊犁哈萨克自治州"
               short="伊犁哈萨克"
               zipcode="833200">
@@ -5037,7 +5037,7 @@
             <district name="尼勒克县" />
         </city>
         <city name="Tacheng"
-              areacode="0901"
+              areaCode="0901"
               cn="塔城地区"
               short="塔城"
               zipcode="834700">
@@ -5050,7 +5050,7 @@
             <district name="和布克赛尔蒙古自治县" />
         </city>
         <city name="Aletai"
-              areacode="0906"
+              areaCode="0906"
               cn="阿勒泰地区"
               short="阿勒泰"
               zipcode="836500">
@@ -5063,22 +5063,22 @@
             <district name="吉木乃县" />
         </city>
         <city name="Shihezi"
-              areacode="0993"
+              areaCode="0993"
               cn="石河子市"
               short="石河子"
               zipcode="832000" />
         <city name="Alaer"
-              areacode="0997"
+              areaCode="0997"
               cn="阿拉尔市"
               short="阿拉尔"
               zipcode="843300" />
         <city name="Tumushuke"
-              areacode="0998"
+              areaCode="0998"
               cn="图木舒克市"
               short="图木舒克"
               zipcode="843900" />
         <city name="Wujiaqu"
-              areacode="0994"
+              areaCode="0994"
               cn="五家渠市"
               short="五家渠"
               zipcode="831300" />
@@ -5089,7 +5089,7 @@
               short="香港"
               type="Special administrative region">
         <city name="Hongkong"
-              areacode="852"
+              areaCode="852"
               cn="香港特别行政区"
               short="香港"
               zipcode="000000" />
@@ -5100,7 +5100,7 @@
               short="澳门"
               type="Special administrative region">
         <city name="Macau"
-              areacode="853"
+              areaCode="853"
               cn="澳门特别行政区"
               short="澳门"
               zipcode="000000" />
@@ -5110,8 +5110,9 @@
               cn="台湾省"
               short="台湾"
               type="Claimed province">
+        <!-- TODO -->
         <city name=""
-              areacode=""
+              areaCode=""
               cn="台湾省"
               short=""
               zipcode="000000" />
