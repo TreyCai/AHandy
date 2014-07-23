@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PagerSlidingTabStrip tab background selector -->
+    <color name="psts_bg_tab_pressed">#6633B5E5</color>
+    <color name="psts_bg_tab_focused">#6633B5E5</color>
+</resources>
