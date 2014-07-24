@@ -1,6 +1,7 @@
 package com.ahandy.service;
 
 import com.ahandy.R;
+import com.ahandy.util.IdUtils;
 
 import android.app.IntentService;
 import android.app.Notification;
@@ -19,7 +20,6 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.Random;
 
 /**
  * An {@link IntentService} subclass for downloading a file.
@@ -190,7 +190,7 @@ public class SimpleDownloadService extends IntentService {
             int iconResId, String actionComplete) {
         HttpURLConnection urlConnection = null;
         try {
-            int notifyId = new Random().nextInt();
+            int notifyId = IdUtils.getUniqueId("SimpleDownloadNotification");
             NotificationManager notifyManager =
                     (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
             Notification.Builder builder = new Notification.Builder(this)
