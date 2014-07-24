@@ -1,12 +1,19 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.ahandy">
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.ahandy"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
             android:allowBackup="true"
-            android:label="@string/app_name"
-            android:icon="@drawable/ic_launcher">
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name">
         <activity android:name=".activity.SimpleWebsiteActivity" />
         <activity android:name=".activity.SwipeRefreshWebsiteActivity" />
+
+        <service
+                android:name=".service.SimpleDownloadService"
+                android:exported="false" />
     </application>
 
 </manifest>
