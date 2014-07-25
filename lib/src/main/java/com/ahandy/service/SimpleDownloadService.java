@@ -226,7 +226,7 @@ public class SimpleDownloadService extends IntentService {
                     int progress =
                             (int) (bufferTotal / urlConnection.getContentLength() * MAX_PROGRESS);
                     downloadNotify(notifyManager, builder, notifyId, progress);
-                    Log.d(LOGTAG, "Download Progress: " + progress);
+                    Log.i(LOGTAG, "Download Progress: " + progress);
                 }
                 fileOutput.close();
 
@@ -285,6 +285,6 @@ public class SimpleDownloadService extends IntentService {
                 .append("File Name: ").append(filename).append(newLine)
                 .append("Content Type: ").append(contentType).append(newLine)
                 .append("Content Length: ").append(contentLength);
-        Log.d(LOGTAG, stringBuilder.toString());
+        Log.i(LOGTAG, stringBuilder.toString());
     }
 }
