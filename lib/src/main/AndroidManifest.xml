@@ -15,6 +15,8 @@
         <service
                 android:name=".service.SimpleDownloadService"
                 android:exported="false" />
+
+        <receiver android:name=".receiver.SimpleUpdateReceiver" />
     </application>
 
 </manifest>

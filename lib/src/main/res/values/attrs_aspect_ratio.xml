@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AspectRatioView">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioViewGroup">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioButton">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioFrameLayout">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioGridLayout">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioImageView">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioImageButton">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioLinearLayout">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioProgressBar">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioRelativeLayout">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioTableLayout">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioTextView">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="AspectRatioVideoView">
+        <attr name="aspectRatio" format="float" />
+    </declare-styleable>
+</resources>
